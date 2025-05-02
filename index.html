@@ -134,7 +134,7 @@
                 <div class="inner">
                     <section>
                         <h2>Get in touch</h2>
-                        <form method="post" action="mailto:contact@tigongolfcarts.com" enctype="text/plain">
+                        <form id="contact-form" method="post" action="mailto:contact@tigongolfcarts.com" enctype="text/plain">
                             <div class="fields">
                                 <div class="field half">
                                     <input type="text" name="name" id="name" placeholder="Name" />
@@ -158,7 +158,7 @@
                             <li><a href="https://www.facebook.com/groups/denago" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
                             <li><a href="https://www.instagram.com/tigongolfcarts/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
                             <li><a href="https://www.youtube.com/playlist?list=PLnFjwa2qUWcsow2KC8ZNtHHUQrc9VAKQg" class="icon brands style2 fa-youtube"><span class="label">YouTube</span></a></li>
-                            <li><a href="https://www.pinterest.com/tigongolfcarts/denago-ev-golf-carts/" class="icon brands style2 fa-pinterest"><span class="label">Pinterest</span></a></li>
+                            <li><a href="https://www.pinterest.com/tigongolfcarts/" class="icon brands style2 fa-pinterest"><span class="label">Pinterest</span></a></li>
                             <li><a href="mailto:contact@tigongolfcarts.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
                         </ul>
                     </section>
@@ -177,5 +177,12 @@
         <script src="assets/js/util.js"></script>
         <script src="assets/js/main.js"></script>
 
-    </body>
+        <script>
+      document.getElementById('contact-form').addEventListener('submit', function() {
+        setTimeout(function() {
+          window.location.href = 'https://tigongolfcarts.com/thank-you/';
+        }, 100);
+      });
+    </script>
+</body>
 </html>
