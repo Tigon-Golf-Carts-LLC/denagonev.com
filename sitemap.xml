@@ -61,7 +61,7 @@
     <loc>https://denagonev.com/about.html</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
   </url>
 
   <!-- Contact -->
@@ -69,6 +69,6 @@
     <loc>https://denagonev.com/contact.html</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
