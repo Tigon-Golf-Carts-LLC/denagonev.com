@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url>
+    <loc>https://denagonev.com/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- DENAGO® EV CITY -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20CITY.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- DENAGO® EV NOMAD -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- DENAGO® EV NOMAD XL -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD%20XL.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- DENAGO® EV ROVER XL -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- DENAGO® EV ROVER XL6 -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL6.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- DENAGO® EV ROVER XXL -->
+  <url>
+    <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XXL.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://denagonev.com/about.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://denagonev.com/contact.html</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
