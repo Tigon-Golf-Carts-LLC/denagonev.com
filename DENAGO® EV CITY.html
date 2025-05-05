@@ -85,6 +85,26 @@
 
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+    <!-- Responsive Image CSS -->
+    <style>
+      .image img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      @media (max-width: 1024px) {
+        .image img { max-width: 800px; }
+      }
+      @media (max-width: 768px) {
+        .image img { max-width: 600px; }
+      }
+      @media (max-width: 480px) {
+        .image img { max-width: 100%; }
+      }
+    </style>
   </head>
 
   <body class="is-preload">
@@ -270,15 +290,8 @@
       <footer id="footer">
         <div class="inner">
           <section>
-            <h2>Get in touch</h2>
-            <form id="contact-form" method="post" action="mailto:contact@tigongolfcarts.com" enctype="text/plain">
-              <div class="fields">
-                <div class="field half"><input type="text" name="name" placeholder="Name" /></div>
-                <div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-                <div class="field"><textarea name="message" placeholder="Message"></textarea></div>
-              </div>
-              <ul class="actions"><li><input type="submit" value="Send Message" class="primary" /></li></ul>
-            </form>
+            <h2>Call Us</h2>
+            <p>CALL YOUR DENAGO EV DEALERSHIP <a href="tel:1-844-844-6638">1-844-844-6638</a></p>
           </section>
           <section>
             <h2>Follow Us</h2>
@@ -305,6 +318,5 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    <script>
-      document.getElementById('contact-form').addEventListener('submit', function() {
-        setTimeout(function() {
+  </body>
+</html>
