@@ -1,80 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
   <!-- Home -->
   <url>
     <loc>https://denagonev.com/</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Neighborhood Electric Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO Neighborhood Electric Vehicles</news:title>
+    </news:news>
+    <!-- Site logo -->
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV CITY -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20CITY.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20CITY.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV CITY</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV CITY</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20CITY.jpg</image:loc>
+      <image:caption>DENAGO® EV CITY</image:caption>
+      <image:title>DENAGO® EV CITY</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV NOMAD -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV NOMAD</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV NOMAD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20NOMAD.jpg</image:loc>
+      <image:caption>DENAGO® EV NOMAD</image:caption>
+      <image:title>DENAGO® EV NOMAD</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV NOMAD XL -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD%20XL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20NOMAD%20XL.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV NOMAD XL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV NOMAD XL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20NOMAD%20XL.jpg</image:loc>
+      <image:caption>DENAGO® EV NOMAD XL</image:caption>
+      <image:title>DENAGO® EV NOMAD XL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XL -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20ROVER%20XL.jpg</image:loc>
+      <image:caption>DENAGO® EV ROVER XL</image:caption>
+      <image:title>DENAGO® EV ROVER XL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XL6 -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL6.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XL6.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XL6</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XL6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20ROVER%20XL6.jpg</image:loc>
+      <image:caption>DENAGO® EV ROVER XL6</image:caption>
+      <image:title>DENAGO® EV ROVER XL6</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XXL -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XXL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/DENAGO%C2%AE%20EV%20ROVER%20XXL.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XXL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XXL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20ROVER%20XXL.jpg</image:loc>
+      <image:caption>DENAGO® EV ROVER XXL</image:caption>
+      <image:title>DENAGO® EV ROVER XXL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- About Us -->
   <url>
     <loc>https://denagonev.com/about.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/about.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Neighborhood Electric Vehicles News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>About Us | DENAGO Neighborhood Electric Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
+      <image:caption>ABOUT DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>ABOUT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
 
   <!-- Contact -->
   <url>
     <loc>https://denagonev.com/contact.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/contact.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Neighborhood Electric Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Contact | DENAGO Neighborhood Electric Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
+      <image:caption>CONTACT DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>CONTACT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
   </url>
+
+  <!-- Privacy Policy-->
+  <url>
+    <loc>https://denagonev.com/privacy-policy.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/contact.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Neighborhood Electric Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Privacy Policy | DENAGO Neighborhood Electric Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
+      <image:caption>CONTACT DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>CONTACT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+  </url>
+
 </urlset>
-<!-- Favicon PNG -->
-        <link rel="icon" type="image/png" sizes="32x32" href="images/DENAGO NEIGHBORHOOD ELECTRIC VEHICLE (1).png">
-        <link rel="shortcut icon" type="image/png" href="images/DENAGO NEIGHBORHOOD ELECTRIC VEHICLE (1).png" />
-        <!-- Favicon ICO -->
-        <link rel="icon" type="image/x-icon" href="/favicon.ico">
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
