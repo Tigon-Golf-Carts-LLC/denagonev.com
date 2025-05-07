@@ -20,7 +20,6 @@
       <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
       <news:title>DENAGO Neighborhood Electric Vehicles</news:title>
     </news:news>
-    <!-- Site logo -->
     <image:image>
       <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
@@ -28,9 +27,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -60,9 +58,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -92,9 +89,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -124,9 +120,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -156,9 +151,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -188,9 +182,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -220,9 +213,8 @@
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -239,7 +231,7 @@
     <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/about.html"/>
     <news:news>
       <news:publication>
-        <news:name>DENAGO Neighborhood Electric Vehicles News</news:name>
+        <news:name>About Us | DENAGO Neighborhood Electric Vehicles</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
@@ -247,14 +239,13 @@
     </news:news>
     <image:image>
       <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
-      <image:caption>ABOUT DENAGO Neighborhood Electric Vehicles</image:caption>
-      <image:title>ABOUT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:caption>About DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>About DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -271,7 +262,7 @@
     <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/contact.html"/>
     <news:news>
       <news:publication>
-        <news:name>DENAGO Neighborhood Electric Vehicles</news:name>
+        <news:name>Contact | DENAGO Neighborhood Electric Vehicles</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
@@ -279,14 +270,13 @@
     </news:news>
     <image:image>
       <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
-      <image:caption>CONTACT DENAGO Neighborhood Electric Vehicles</image:caption>
-      <image:title>CONTACT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:caption>Contact DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>Contact DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -294,16 +284,16 @@
     </image:image>
   </url>
 
-  <!-- Privacy Policy-->
+  <!-- Privacy Policy -->
   <url>
     <loc>https://denagonev.com/privacy-policy.html</loc>
     <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/privacy-policy.html"/>
     <news:news>
       <news:publication>
-        <news:name>DENAGO Neighborhood Electric Vehicles</news:name>
+        <news:name>Privacy Policy | DENAGO Neighborhood Electric Vehicles</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
@@ -311,14 +301,13 @@
     </news:news>
     <image:image>
       <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).png</image:loc>
-      <image:caption>CONTACT DENAGO Neighborhood Electric Vehicles</image:caption>
-      <image:title>CONTACT DENAGO Neighborhood Electric Vehicles</image:title>
+      <image:caption>Privacy Policy | DENAGO Neighborhood Electric Vehicles</image:caption>
+      <image:title>Privacy Policy | DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagonev.com/</image:license>
     </image:image>
-    <!-- Favicon -->
     <image:image>
-      <image:loc>images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEIGHBORHOOD%20ELECTRIC%20VEHICLE%20(1).ico</image:loc>
       <image:caption>DENAGO Neighborhood Electric Vehicles</image:caption>
       <image:title>DENAGO Neighborhood Electric Vehicles</image:title>
       <image:geo_location>United States</image:geo_location>
