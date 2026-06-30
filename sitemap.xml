@@ -36,6 +36,22 @@
     </image:image>
   </url>
 
+  <!-- Denago EV Price Guide -->
+  <url>
+    <loc>https://denagonev.com/denago-ev-price-guide.html</loc>
+    <lastmod>2026-06-30T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagonev.com/denago-ev-price-guide.html"/>
+    <image:image>
+      <image:loc>https://denagonev.com/images/DENAGO%20NEV%20NOMAD%20XL.jpg</image:loc>
+      <image:caption>Denago EV Price Guide</image:caption>
+      <image:title>Denago EV Price Guide</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagonev.com/</image:license>
+    </image:image>
+  </url>
+
   <!-- DENAGO® EV CITY -->
   <url>
     <loc>https://denagonev.com/DENAGO%C2%AE%20EV%20CITY.html</loc>
